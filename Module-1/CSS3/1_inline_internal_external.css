@@ -1,0 +1,18 @@
+
+/* Inline: Apply this directly in HTML like <h1 style="color:red;"> */
+
+/* Internal Style Example (to be placed within <style> tag in <head>) */
+body {
+  background-color: #f0f0f0;
+}
+
+/* External Style: Place reusable styles here */
+h1 {
+  color: #2c3e50;
+}
+
+/* Navigation Menu */
+nav ul {
+  list-style: none;
+  padding: 0;
+}

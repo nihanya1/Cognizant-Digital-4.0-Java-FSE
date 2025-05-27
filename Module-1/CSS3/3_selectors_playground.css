@@ -1,0 +1,27 @@
+
+/* Universal selector */
+* {
+  box-sizing: border-box;
+}
+
+/* Element selector */
+h2 {
+  color: darkblue;
+}
+
+/* ID selector */
+#mainHeader {
+  background-color: lightgray;
+  padding: 15px;
+}
+
+/* Class selector */
+.eventCard {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+/* Grouping selector */
+h3, p {
+  font-family: Arial, sans-serif;
+}

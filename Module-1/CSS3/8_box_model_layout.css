@@ -1,0 +1,21 @@
+
+/* Event card box model */
+.eventCard {
+  margin: 20px;
+  padding: 15px;
+  border: 1px solid #ddd;
+}
+
+/* Outline for focus */
+input:focus {
+  outline: 2px solid #4CAF50;
+}
+
+/* Visibility vs display */
+.hidden-example {
+  visibility: hidden;
+}
+
+.none-example {
+  display: none;
+}
